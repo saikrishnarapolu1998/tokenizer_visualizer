@@ -7,8 +7,11 @@ A simple Python project to visualize tokenization.
 
 ## How to run
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ## Requirements
-Make sure Python is installed on your system.
+Install dependencies first:
+```bash
+pip install -r requirements.txt
+```
